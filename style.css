@@ -1,0 +1,25 @@
+ body  {
+ background-color:purple;
+ color: white;
+ font-family:gotham;
+ width:100%;
+ margin: autu;
+
+
+ }
+
+ .cabecalho {
+ 
+ display: flex;
+ flex-wrap: wrap;
+ justify-content:spacebetween;
+
+ 
+ }
+
+
+
+ .cabecalho>div { 
+ witth:100%
+ 
+ }
